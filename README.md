@@ -2,7 +2,7 @@
 
 **`Chasing Infosec Mastery`**
 
-I'm an ex-marketing professional turned technologist. I like words, but it turns out I like hard skills better. Words are subjective - tech just works (well...mostly). If you told me a year ago that I'd be able to casually write scripts, set up VMs, or have anything to do with Linux, I wouldn't have believed you. Yet here we are - and the journey has been magnificent.
+I'm an ex-marketing professional turned technologist. I like words, but words are subjective - tech just works (well...mostly). If you told me a year ago that I'd be able to casually write scripts, set up VMs, or have anything to do with Linux, I wouldn't have believed you. Yet here we are, and I'm nowhere near done.
 
 And yes, I can obviously write kick-ass phishing campaigns. But I won't. Because that's bad. Right?
 
