@@ -24,7 +24,6 @@ And yes, I can obviously write kick-ass phishing campaigns. But I won't. Because
 <img align="left" alt="Clement Thibault PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Clement Thibault Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 <img align="left" alt="Clement Thibault VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Clement Thibault PowerShell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
 <img align="left" alt="Clement Thibault PowerShell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
 <img align="left" alt="Clement Thibault Puppeteer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" />
 <img align="left" alt="Clement Thibault PuTTY" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
@@ -40,9 +39,18 @@ And yes, I can obviously write kick-ass phishing campaigns. But I won't. Because
 ## 🧰 Languages and Tools I've Worked With But Without Icons <br/>
    </br>
 
-Snort, Wireshark, Nmap
-
+**Cloud** : Microsoft Azure, Google Cloud, Docker
    </br>
+   </br>
+**Programming** : Python, Django, Flask, MongoDB, Postman, PostgreSQL, SQLAlchemy
+   </br>
+   </br>
+**Security Tools** : Linux, Splunk, Snort, Wireshark, Nmap, BurpSuite, PuTTY
+   </br>
+   </br>
+   </br>
+   </br>
+
    
 ## 📜 Certifications I've Earned
    </br>
@@ -56,14 +64,33 @@ Snort, Wireshark, Nmap
    </br>
    </br>
 
+
+
+## 📜 Currently Studying For
+   </br>
+   <p align="left">
+   <img align="left" alt="Clement Thibault PenTest+" width="100px" style="padding-right:10px;" src="https://i.imgur.com/iSS01Jr.png"/>
+   </br>
+   </br>
+   </br>
+   </br>
+   </br>
+
    
 ## ✍️ Project Write-Ups
 
-| [![Image](https://imgv3.fotor.com/images/slider-image/A-clear-close-up-photo-of-a-woman.jpg)](https://www.google.com) | ![Image](https://imgv3.fotor.com/images/slider-image/A-clear-close-up-photo-of-a-woman.jpg) | ![Image](https://imgv3.fotor.com/images/slider-image/A-clear-close-up-photo-of-a-woman.jpg) |
-|:--:|:--:|:--:|
-| **Setting Up A Honeypot** 🍯<br><br>[How I Used T-Pot and Splunk To Create And Monitor Attacks](#) | **Unleashing the Power of BadUSBs** ⌨️<br><br>[How I Built a Keystroke Injector to Execute Commands in Seconds](#) | **Staying Ahead with CyberNews** 📰<br><br>[How I Built The One Cyber News Aggregator To Rule Them All](#) |
-| ![Image](https://imgv3.fotor.com/images/slider-image/A-clear-close-up-photo-of-a-woman.jpg) | ![Image](https://imgv3.fotor.com/images/slider-image/A-clear-close-up-photo-of-a-woman.jpg) | ![Image](https://imgv3.fotor.com/images/slider-image/A-clear-close-up-photo-of-a-woman.jpg) |
-| **Job Hunting With Python** 🔭<br><br>[Why Look For Jobs When Code Does A Better Job?](#) | **Journeying Through TryHackMe** 🧠<br><br>[How I Hacked TryHackMe To Hack My Brain (what?)](#) | **Sports Sports Sports** ⚽<br><br>[How I Built a Match Ranking Algorithm And Sports Website Backend](#) |
+### **Setting Up A Honeypot** 🍯<br><br> 
+[How I Used T-Pot and Splunk To Create And Monitor Attacks](https://github.com/pythonclem/honeypot) <br><br> 
+### **Unleashing the Power of BadUSBs** ⌨️<br><br>
+[Building a Keystroke Injector to Execute Commands in Seconds](https://github.com/pythonclem/BadUSB) <br><br> 
+### **Staying Ahead with CyberNews** 📰<br><br>
+[How I Built The One Cyber News Aggregator To Rule Them All](https://github.com/pythonclem/CyberNews) 
+### **Journeying Through TryHackMe** 🧠<br><br>
+[How I Hacked TryHackMe To Hack My Brain (what?)](https://github.com/pythonclem/TryHackMe) <br><br>
+### **Job Hunting With Python** 🔭<br><br>
+[Why Look For Jobs When Code Does A Better Job?](https://github.com/pythonclem/JobFinder) <br><br> 
+### **Sports Sports Sports** ⚽<br><br>
+[How I Built a Match Ranking Algorithm And Sports Website Backend](https://github.com/pythonclem/TheMorningKickoff) |
 
    
    </br>
@@ -85,7 +112,7 @@ I know it's going to be a long journey, and I'd love to have company along the w
 
 Thanks for visiting my GitHub! You can also find me here:
 
-*LinkedIn*
+[*LinkedIn*](https://linkedin.com/in/clem-thibault)
 
 
 
