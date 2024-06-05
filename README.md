@@ -2,7 +2,7 @@
 
 **`Chasing Infosec Mastery`**
 
-I'm an ex-marketing professional turned technologist. I like words, but words are subjective - tech just works (well...mostly). If you told me a year ago that I'd be able to casually write scripts, set up VMs, or have anything to do with Linux, I wouldn't have believed you. Yet here we are, and I'm nowhere near done.
+I'm ex-marketing professional turned technologist. I like words, but words are subjective - tech just works (well...mostly). If you told me a year ago that I'd be able to casually write scripts, set up VMs, or have anything to do with Linux, I wouldn't have believed you. Yet here we are, and I'm nowhere near done.
 
 And yes, I can obviously write kick-ass phishing campaigns. But I won't. Because that's bad. Right?
 
@@ -86,7 +86,7 @@ And yes, I can obviously write kick-ass phishing campaigns. But I won't. Because
 ### **Staying Ahead with CyberNews** 📰<br><br>
 [How I Built The One Cyber News Aggregator To Rule Them All](https://github.com/pythonclem/CyberNews) 
 ### **Journeying Through TryHackMe** 🧠<br><br>
-[How I Hacked TryHackMe To Hack My Brain (what?)](https://github.com/pythonclem/TryHackMe) <br><br>
+[How I Hacked TryHackMe To Hack My Brain (what?)](https://github.com/pythonclem/THM-Labs) <br><br>
 ### **Job Hunting With Python** 🔭<br><br>
 [Why Look For Jobs When Code Does A Better Job?](https://github.com/pythonclem/JobFinder) <br><br> 
 ### **Sports Sports Sports** ⚽<br><br>
