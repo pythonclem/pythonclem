@@ -45,11 +45,15 @@ And yes, I can obviously write kick-ass phishing campaigns. But I won't. Because
 **Programming** : Python, Django, Flask, MongoDB, Postman, PostgreSQL, SQLAlchemy
    </br>
    </br>
-**Security Tools** : Linux, Splunk, Snort, Wireshark, Nmap, BurpSuite, PuTTY
+**Security Tools** : Metasploit, Splunk, Snort, Wireshark, Nmap, BurpSuite, PuTTY
+   </br>
+   </br>
+**OS** : Linux (Ubuntu, Debian, Kali), Windows
    </br>
    </br>
    </br>
    </br>
+
 
    
 ## 📜 Certifications I've Earned
