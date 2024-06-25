@@ -83,18 +83,39 @@ And yes, I can obviously write kick-ass phishing campaigns. But I won't. Because
    
 ## ✍️ Project Write-Ups
 
+
+### **Passing Network+ and Security+ With No Experience** 🏫<br><br> 
+[My journey into IT certifications](https://github.com/pythonclem/net-sec-certs) <br><br> 
+
+---
+
 ### **Setting Up A Honeypot** 🍯<br><br> 
 [How I Used T-Pot and Splunk To Create And Monitor Attacks](https://github.com/pythonclem/honeypot) <br><br> 
+
+---
+
 ### **Unleashing the Power of BadUSBs** ⌨️<br><br>
 [Building a Keystroke Injector to Execute Commands in Seconds](https://github.com/pythonclem/BadUSB) <br><br> 
+
+---
+
 ### **Staying Ahead with CyberNews** 📰<br><br>
 [How I Built The One Cyber News Aggregator To Rule Them All](https://github.com/pythonclem/CyberNews) 
+
+---
+
 ### **Journeying Through TryHackMe** 🧠<br><br>
 [How I Hacked TryHackMe To Hack My Brain (what?)](https://github.com/pythonclem/THM-Labs) <br><br>
+
+---
+
 ### **Job Hunting With Python** 🔭<br><br>
-[Why Look For Jobs When Code Does A Better Job?](https://github.com/pythonclem/JobFinder) <br><br> 
+[Writing code to help find a position?](https://github.com/pythonclem/JobFinder) <br><br> 
+
+---
+
 ### **Sports Sports Sports** ⚽<br><br>
-[How I Built a Match Ranking Algorithm And Sports Website Backend](https://github.com/pythonclem/TheMorningKickoff) |
+[How I Built a Match Ranking Algorithm And Sports Website Backend](https://github.com/pythonclem/TheMorningKickoff) 
 
    
    </br>
